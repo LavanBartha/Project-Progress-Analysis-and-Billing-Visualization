@@ -16,6 +16,7 @@ This project focuses on analyzing project progress and billing details to uncove
 ## Project Structure
 - **Data:** Contains raw and processed datasets used in the analysis.
 - **Visualization:** Open Tableau workbooks to explore interactive visualizations. [Link to Tableau Visualization](https://public.tableau.com/shared/NTH5538KQ?:display_count=n&:origin=viz_share_link)
+  (Please click on this link for the upto date visiualization)
 - **Reports:** Detailed insights, conclusions, and recommendations derived from the analysis.
 
 ## How to Use
